@@ -1,0 +1,35 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "bracket-generator": "^3.1.1",
+    "figlet": "^1.7.0",
+    "node-fetch": "^3.3.2",
+    "random-words": "^2.0.1",
+    "react-icons": "^5.0.1"
+  },
+  "name": "french-randomizer",
+  "version": "1.0.0",
+  "description": "This package can generate random french word.",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishrana18/french-randomizer.git"
+  },
+  "keywords": [
+    "french",
+    "random",
+    "randomizer",
+    "words"
+  ],
+  "author": "Ashish Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishrana18/french-randomizer/issues"
+  },
+  "homepage": "https://github.com/ashishrana18/french-randomizer#readme"
+}
